@@ -474,7 +474,7 @@ const Projects: React.FC = () => {
         "Integrated Stripe API and Cloudinary for secure payments"
       ],
       links: {
-        github: "https://codolio.com/profile/Satwik290",
+        github: "https://github.com/Satwik290/DocLync-Pro",
       },
     },
     {
@@ -506,7 +506,7 @@ const Projects: React.FC = () => {
         "Improved server response times by 25%"
       ],
       links: {
-        github: "https://github.com/Satwik290/learnify",
+        github: "https://github.com/Satwik290/Learnify-course-selling-platform",
       },
     },
   ];
